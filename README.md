@@ -2,35 +2,35 @@
 
 # Anar Veliyev
 
-### Senior Data Analyst • Data Engineering • Financial Analytics
+### Senior Data Analyst • Financial Analytics • Data Engineering • AI
 
-Building enterprise data solutions that transform data into business value.
+Designing enterprise data solutions that transform complex data into strategic business decisions.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <a href="mailto:anarv980@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Baku-Azerbaijan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-16A34A?style=for-the-badge"/>
 </p>
 
-📍 **Baku, Azerbaijan** • 🌍 **Open to Remote Opportunities**
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux,js&theme=dark"/>
 
 </div>
 
 ---
 
-## About Me
+# About
 
-Senior Data Analyst with **6+ years of experience** delivering analytical solutions across **Banking, Government and AI-driven products**.
+Senior Data Analyst with **6+ years of experience** delivering enterprise analytics solutions across **Banking, Government, and AI-driven products**.
 
-Experienced in designing enterprise **Data Warehouses**, developing scalable **ETL pipelines**, optimizing complex SQL workloads, building executive dashboards and applying Machine Learning to solve real business challenges.
+Currently pursuing a **PhD in Management**, combining academic research with hands-on expertise in **Financial Analytics**, **Enterprise Data Warehousing**, **Machine Learning**, and **Business Intelligence**.
 
-I enjoy transforming complex datasets into actionable insights that improve decision-making, optimize business processes and create measurable business impact.
+My work focuses on designing scalable analytical platforms, developing automated ETL pipelines, optimizing enterprise SQL workloads, and building executive dashboards that enable data-driven strategic decision-making.
 
 ---
 
-## Core Expertise
+# Core Expertise
 
 ### Financial Analytics
 
@@ -38,14 +38,16 @@ I enjoy transforming complex datasets into actionable insights that improve deci
 - KPI Development
 - Forecasting
 - Business Performance Analysis
+- Executive Reporting
 
 ### Data Engineering
 
-- Enterprise Data Warehouse
+- Enterprise Data Warehousing
 - ETL Pipelines
 - Data Modeling
 - SQL Performance Optimization
 - Data Marts
+- Apache Spark
 
 ### Business Intelligence
 
@@ -59,30 +61,25 @@ I enjoy transforming complex datasets into actionable insights that improve deci
 - Machine Learning
 - Predictive Analytics
 - Computer Vision
+- Deep Learning
 
 ---
 
-## Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux,js&theme=dark"/>
-
-</p>
+# Technology Stack
 
 | Category | Technologies |
-|----------|--------------|
-| **Languages** | Python • SQL • JavaScript |
+|-----------|--------------|
+| **Programming** | Python • SQL • JavaScript |
 | **Databases** | PostgreSQL • MS SQL Server • ClickHouse |
 | **Analytics** | Pandas • NumPy • Scikit-learn |
 | **Business Intelligence** | Power BI • Tableau |
 | **Data Engineering** | ETL • Apache Spark • Data Warehouse |
-| **AI / ML** | PyTorch • OpenCV • TensorRT |
+| **Artificial Intelligence** | PyTorch • OpenCV • TensorRT |
 | **Development** | Git • Docker • Linux • Jupyter Notebook |
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -100,153 +97,77 @@ I enjoy transforming complex datasets into actionable insights that improve deci
 
 ---
 
-## Featured Projects
-
-🏦 **Banking Analytics Platform** *(In Progress)*
-
-Enterprise analytics platform for financial reporting, customer insights and executive decision support.
-
----
-
-📊 **Credit Risk Analysis** *(In Progress)*
-
-Machine Learning models for probability of default prediction and credit portfolio analysis.
-
----
-
-🗄️ **Enterprise Data Warehouse** *(In Progress)*
-
-Scalable data warehouse architecture with automated ETL pipelines and analytical data marts.
-
----
-
-📈 **Executive Financial Dashboard** *(In Progress)*
-
-Interactive dashboards for KPI monitoring and executive financial reporting.
-
----
-
-## Professional Interests
-
-- Financial Analytics
-- Banking Technologies
-- Product Analytics
-- Business Intelligence
-- Artificial Intelligence
-- Data Engineering
-- Enterprise Data Platforms
-
----
-
-## Education
-
-**MSc — Data Analytics & Artificial Intelligence**  
-University of the West of England (United Kingdom)
-
-**MSc — Data Analytics & Artificial Intelligence**  
-Transport and Telecommunication Institute (Latvia)
-
-**BSc — Business Administration**  
-Baltic International Academy (Latvia)
-
----
-
-## Let's Connect
-
-📧 **Email:** anarv980@gmail.com
-
-📍 **Location:** Baku, Azerbaijan
-
-💼 **LinkedIn:** *(Coming Soon)*
-
----
-
-<div align="center">
-
-### Turning Data into Business Value
-
-</div>- Machine Learning
-- Predictive Analytics
-- Forecasting
-- Deep Learning
-- Computer Vision
-
----
-
-# Technology Stack
-
-| Programming | Python • SQL • JavaScript |
-|-------------|---------------------------|
-| Databases | PostgreSQL • MS SQL • ClickHouse |
-| Analytics | Pandas • NumPy • Scikit-Learn |
-| BI | Power BI • Tableau |
-| Data Engineering | ETL • Spark • Data Warehouse |
-| AI | PyTorch • OpenCV • TensorRT |
-| DevOps | Docker • Git • Linux |
-
----
-
 # Featured Projects
 
-### Banking Analytics Portfolio
+### 🏦 Banking Analytics Platform *(In Progress)*
 
-Enterprise-level banking analytics with SQL, Python and Business Intelligence.
-
-### Credit Risk Analysis
-
-Machine Learning models for credit scoring and default prediction.
-
-### Enterprise Data Warehouse
-
-Scalable DWH architecture with automated ETL pipelines.
-
-### Executive Financial Dashboard
-
-Interactive dashboards for executive reporting and KPI monitoring.
-
-### Customer Analytics
-
-Segmentation, churn prediction and customer lifetime value analysis.
+Enterprise analytics platform for executive reporting, financial performance monitoring, customer segmentation, and business intelligence.
 
 ---
 
-# Current Focus
+### 📊 Credit Risk Analysis *(In Progress)*
+
+Machine learning models for credit risk assessment, probability of default prediction, and portfolio analytics.
+
+---
+
+### 🗄️ Enterprise Data Warehouse *(In Progress)*
+
+Enterprise-grade Data Warehouse architecture with automated ETL pipelines, analytical data marts, and scalable reporting.
+
+---
+
+### 📈 Executive Financial Dashboard *(In Progress)*
+
+Interactive dashboards for KPI monitoring, operational analytics, and executive financial reporting.
+
+---
+
+# Research Interests
 
 - Financial Analytics
-- Banking Technologies
-- Enterprise Data Platforms
-- AI-powered Decision Systems
+- Artificial Intelligence
+- Data Engineering
 - Business Intelligence
-- Product Analytics
+- Enterprise Data Platforms
+- Digital Transformation
+- Strategic Management
 
 ---
 
 # Education
 
-**MSc — Data Analytics & Artificial Intelligence**
-
-University of the West of England
+**PhD in Management** *(In Progress)*
 
 ---
 
-**MSc — Data Analytics & Artificial Intelligence**
+**MSc — Data Analytics & Artificial Intelligence**  
+University of the West of England (United Kingdom)
 
-Transport and Telecommunication Institute
+---
+
+**MSc — Data Analytics & Artificial Intelligence**  
+Transport and Telecommunication Institute (Latvia)
+
+---
+
+**BSc — Business Management**  
+Baltic International Academy (Latvia)
 
 ---
 
 # Let's Connect
 
-📧 **anarv980@gmail.com**
+📧 **Email:** anarv980@gmail.com
 
-📍 **Baku, Azerbaijan**
+📍 **Location:** Baku, Azerbaijan
 
-💼 LinkedIn *(coming soon)*
+💼 **LinkedIn:** *Coming Soon*
 
 ---
 
 <div align="center">
 
-### Turning Data into Decisions
+## Engineering Data for Better Decisions
 
 </div>
