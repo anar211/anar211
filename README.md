@@ -2,86 +2,63 @@
   <img src="https://raw.githubusercontent.com/anar211/anar211/main/Banner.png" width="100%" alt="Anar Veliev Banner">
 </p>
 
-# Anar Veliev
+<p align="center">
 
-### Senior Data Analyst • Analytics Engineer • AI Solutions
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Senior+Data+Analyst;Analytics+Engineer;Financial+Analytics;Data+Engineering;Machine+Learning;Artificial+Intelligence"/>
 
-Designing enterprise data solutions that transform complex data into strategic business decisions.
-
-<p>
-  <a href="mailto:anarv980@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Baku-Azerbaijan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-16A34A?style=for-the-badge"/>
 </p>
 
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux,js&theme=dark"/>
+<div align="center">
+
+# Anar Veliev
+
+### Senior Data Analyst • Analytics Engineer
+
+**Financial Analytics • Artificial Intelligence • Data Engineering**
+
+Building intelligent software and enterprise data platforms that transform complex data into strategic business decisions.
 
 </div>
 
----
+<p align="center">
 
-# About
+<a href="mailto:anarv980@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Senior Data Analyst with **6+ years of experience** delivering enterprise analytics solutions across **Banking, Government, and AI-driven products**.
+<img src="https://img.shields.io/badge/Baku-Azerbaijan-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-Currently pursuing a **PhD in Management**, combining academic research with hands-on expertise in **Financial Analytics**, **Enterprise Data Warehousing**, **Machine Learning**, and **Business Intelligence**.
+<img src="https://img.shields.io/badge/Open_to-Remote_Work-16A34A?style=for-the-badge"/>
 
-My work focuses on designing scalable analytical platforms, developing automated ETL pipelines, optimizing enterprise SQL workloads, and building executive dashboards that enable data-driven strategic decision-making.
+</p>
 
----
+<p align="center">
 
-# Core Expertise
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux,js&theme=dark"/>
 
-### Financial Analytics
+</p>
 
-- Financial Reporting
-- KPI Development
-- Forecasting
-- Business Performance Analysis
-- Executive Reporting
+<p align="center">
 
-### Data Engineering
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-- Enterprise Data Warehousing
-- ETL Pipelines
-- Data Modeling
-- SQL Performance Optimization
-- Data Marts
-- Apache Spark
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-### Business Intelligence
+<img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge"/>
 
-- Dashboard Development
-- Power BI
-- Tableau
-- Data Visualization
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-### Artificial Intelligence
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-- Machine Learning
-- Predictive Analytics
-- Computer Vision
-- Deep Learning
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+</p>
 
 ---
 
-# Technology Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| **Programming** | Python • SQL • JavaScript |
-| **Databases** | PostgreSQL • MS SQL Server • ClickHouse |
-| **Analytics** | Pandas • NumPy • Scikit-learn |
-| **Business Intelligence** | Power BI • Tableau |
-| **Data Engineering** | ETL • Apache Spark • Data Warehouse |
-| **Artificial Intelligence** | PyTorch • OpenCV • TensorRT |
-| **Development** | Git • Docker • Linux • Jupyter Notebook |
-
----
-
-# GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -97,35 +74,196 @@ My work focuses on designing scalable analytical platforms, developing automated
 
 </p>
 
----
+<p align="center">
 
-# Featured Projects
+<img src="https://komarev.com/ghpvc/?username=anar211&style=for-the-badge&color=38BDF8"/>
 
-### 🏦 Banking Analytics Platform *(In Progress)*
+</p>
 
-Enterprise analytics platform for executive reporting, financial performance monitoring, customer segmentation, and business intelligence.
+<p align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anar211&theme=tokyonight"/>
 
-### 📊 Credit Risk Analysis *(In Progress)*
-
-Machine learning models for credit risk assessment, probability of default prediction, and portfolio analytics.
+</p>
 
 ---
+# 🚀 About Me
 
-### 🗄️ Enterprise Data Warehouse *(In Progress)*
+Senior Data Analyst with **6+ years of experience** delivering enterprise analytics solutions across **Banking, Government, FinTech and AI-driven products**.
 
-Enterprise-grade Data Warehouse architecture with automated ETL pipelines, analytical data marts, and scalable reporting.
+Currently pursuing a **PhD in Management**, combining academic research with practical expertise in **Financial Analytics**, **Analytics Engineering**, **Enterprise Data Warehousing**, **Machine Learning**, and **Business Intelligence**.
 
----
-
-### 📈 Executive Financial Dashboard *(In Progress)*
-
-Interactive dashboards for KPI monitoring, operational analytics, and executive financial reporting.
+I specialize in designing scalable analytical platforms, developing enterprise ETL pipelines, optimizing SQL performance, building executive dashboards, and delivering AI-powered solutions that enable organizations to make data-driven decisions.
 
 ---
 
-# Research Interests
+# 💼 Core Expertise
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📈 Financial Analytics
+
+- Executive Reporting
+- Financial Reporting
+- KPI Development
+- Budget Analysis
+- Forecasting
+- Customer Analytics
+- Business Performance Analysis
+
+</td>
+
+<td width="50%">
+
+## 🗄️ Data Engineering
+
+- Enterprise Data Warehouse
+- ETL Pipelines
+- SQL Optimization
+- Data Modeling
+- Data Marts
+- Apache Spark
+- Data Integration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📊 Business Intelligence
+
+- Power BI
+- Tableau
+- Executive Dashboards
+- KPI Monitoring
+- Data Visualization
+- Self-Service Analytics
+
+</td>
+
+<td>
+
+## 🤖 Artificial Intelligence
+
+- Machine Learning
+- Predictive Analytics
+- Deep Learning
+- Computer Vision
+- Forecasting
+- AI Solutions
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚙️ Technology Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| 🐍 Programming | Python • SQL • JavaScript |
+| 🗄️ Databases | PostgreSQL • MS SQL Server • ClickHouse |
+| 📊 Analytics | Pandas • NumPy • Scikit-learn |
+| 📈 Business Intelligence | Power BI • Tableau |
+| ⚡ Data Engineering | ETL • Apache Spark • Data Warehouse |
+| 🤖 Artificial Intelligence | PyTorch • OpenCV • TensorRT |
+| 🛠 Development | Git • Docker • Linux • Jupyter Notebook |
+
+---
+
+# 🎯 What I Do
+
+✔ Build Enterprise Data Warehouses
+
+✔ Develop scalable ETL Pipelines
+
+✔ Design Executive Dashboards
+
+✔ Optimize SQL Performance
+
+✔ Develop Machine Learning Models
+
+✔ Create Business Intelligence Solutions
+
+✔ Automate Reporting Processes
+
+✔ Transform Data into Strategic Business Value
+
+---
+# 🏦 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏦 Banking Analytics Platform
+
+Enterprise analytics platform designed for financial reporting, KPI monitoring, customer analytics, and executive decision support.
+
+**Tech Stack**
+
+Python • SQL • PostgreSQL • Power BI • ETL
+
+</td>
+
+<td width="50%">
+
+## 📊 Credit Risk Analysis
+
+Machine Learning solution for credit scoring, probability of default prediction, portfolio analysis, and risk assessment.
+
+**Tech Stack**
+
+Python • Scikit-Learn • SQL • Pandas
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🗄️ Enterprise Data Warehouse
+
+Modern Data Warehouse architecture with automated ETL pipelines, dimensional modeling, and analytical data marts.
+
+**Tech Stack**
+
+SQL • PostgreSQL • Apache Spark • ETL
+
+</td>
+
+<td>
+
+## 📈 Executive Financial Dashboard
+
+Interactive executive dashboards for business monitoring, KPI tracking, financial reporting, and strategic decision-making.
+
+**Tech Stack**
+
+Power BI • SQL • Python
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🔬 Research Interests
 
 - Financial Analytics
 - Artificial Intelligence
@@ -134,42 +272,88 @@ Interactive dashboards for KPI monitoring, operational analytics, and executive 
 - Enterprise Data Platforms
 - Digital Transformation
 - Strategic Management
+- Analytics Engineering
 
 ---
 
-# Education
+# 🎓 Education
 
-**PhD in Management** *(In Progress)*
+### 🎓 PhD in Management *(In Progress)*
 
----
-
-**MSc — Data Analytics & Artificial Intelligence**  
-University of the West of England (United Kingdom)
+Doctoral Research in Management
 
 ---
 
-**MSc — Data Analytics & Artificial Intelligence**  
-Transport and Telecommunication Institute (Latvia)
+### 🎓 MSc — Data Analytics & Artificial Intelligence
+
+**University of the West of England**
+
+United Kingdom 🇬🇧
 
 ---
 
-**BSc — Business Management**  
-Baltic International Academy (Latvia)
+### 🎓 MSc — Data Analytics & Artificial Intelligence
+
+**Transport and Telecommunication Institute**
+
+Latvia 🇱🇻
 
 ---
 
-# Let's Connect
+### 🎓 BSc — Business Management
 
-📧 **Email:** anarv980@gmail.com
+**Baltic International Academy**
 
-📍 **Location:** Baku, Azerbaijan
+Latvia 🇱🇻
 
-💼 **LinkedIn:** *Coming Soon*
+---
+
+# 📈 Current Focus
+
+✔ Financial Analytics
+
+✔ Banking Technologies
+
+✔ Artificial Intelligence
+
+✔ Analytics Engineering
+
+✔ Enterprise Data Warehousing
+
+✔ Business Intelligence
+
+✔ Product Analytics
+
+✔ Decision Support Systems
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:anarv980@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-anarv980%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anar211">
+<img src="https://img.shields.io/badge/GitHub-anar211-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://img.shields.io/badge/Location-Baku,_Azerbaijan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-## Engineering Data for Better Decisions
+# Engineering Data for Better Decisions
+
+### Turning Data into Business Value through Analytics, Engineering and AI.
+
+⭐ Thank you for visiting my profile ⭐
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=140&section=footer"/>
