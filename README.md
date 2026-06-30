@@ -1,95 +1,104 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Anar Veliyev
+
+<div align="center">
+
+# Hi, I'm Anar Veliyev 👋
 
 ## Senior Data Analyst | Analytics Engineer | AI Solutions
 
-📍 **Baku, Azerbaijan**
+📍 Baku, Azerbaijan  
+📧 anarv980@gmail.com  
 
-Passionate Data Analyst with **6+ years of experience** in Banking, Government, Artificial Intelligence and Data Analytics.
-
-I specialize in designing scalable analytical solutions, Data Warehouses, ETL pipelines, Machine Learning models and executive dashboards that transform data into strategic business decisions.
-
----
-
-# 🚀 About Me
-
-- 📊 Data Analytics
-- 🏦 Banking Analytics
-- 📈 Business Intelligence
-- 🤖 Artificial Intelligence
-- ⚡ SQL Optimization
-- 🗄️ Data Warehouse
-- 🔄 ETL Pipelines
-- 📉 Forecasting
-- 📚 Machine Learning
-- 📌 Data Visualization
+</div>
 
 ---
 
-# 💼 Current Focus
+## 🚀 About Me
 
-✔ Financial Analytics
+Data Analyst with **6+ years of experience** in banking, government, AI products and business analytics.
 
-✔ Banking Products
-
-✔ Product Analytics
-
-✔ Data Engineering
-
-✔ AI Solutions
-
-✔ Executive Dashboards
-
-✔ Business Process Optimization
+I specialize in building scalable analytical systems, data warehouses, ETL pipelines, machine learning models and executive dashboards that turn raw data into business decisions.
 
 ---
 
-# 🛠 Tech Stack
+## 💼 Core Expertise
 
-### Programming
+- 📊 Data Analytics  
+- 🏦 Banking & Financial Analytics  
+- 🗄️ Data Warehousing  
+- ⚡ SQL Optimization  
+- 🔄 ETL Pipelines  
+- 📈 Business Intelligence  
+- 🤖 Machine Learning  
+- 📉 Forecasting  
+- 🧠 AI Solutions  
+- 📌 Executive Dashboards  
 
-Python • SQL • JavaScript
+---
+
+## 🛠 Tech Stack
+
+### Languages
+`Python` `SQL` `JavaScript`
 
 ### Databases
+`PostgreSQL` `MS SQL` `ClickHouse` `SQLite`
 
-PostgreSQL • MS SQL • ClickHouse • SQLite
+### Analytics & BI
+`Pandas` `NumPy` `Scikit-Learn` `Power BI` `Tableau`
 
-### Analytics
+### Data Engineering
+`ETL` `Data Warehouse` `Data Modeling` `Spark`
 
-Pandas • NumPy • Scikit-Learn • Tableau • Power BI
+### AI / ML
+`PyTorch` `OpenCV` `TensorRT` `Machine Learning`
 
-### Big Data
-
-Spark • ETL • Data Warehouse
-
-### AI
-
-PyTorch • OpenCV • TensorRT
-
-### Dev Tools
-
-Git • Docker • Linux • Jupyter Notebook
+### Tools
+`Git` `Docker` `Linux` `Jupyter Notebook`
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-🚧 Coming Soon...
+### 🏦 Banking Analytics Portfolio
+Credit risk, payment analytics, customer segmentation and financial dashboards.
 
-- Banking Analytics
-- Credit Risk Analysis
-- Data Warehouse
-- Financial Dashboard
-- Customer Segmentation
-- Fraud Detection
+### 📊 Credit Risk Analysis
+Risk scoring, default prediction, business insights and model evaluation.
 
----
+### 🗄️ Data Warehouse & ETL
+End-to-end data pipeline with SQL data marts and analytical reporting.
 
-# 📫 Contact
+### 📈 Financial Dashboard
+Executive KPI dashboard for financial performance and business monitoring.
 
-📧 anarv980@gmail.com
-
-📍 Baku, Azerbaijan
+### 🤖 Machine Learning Projects
+Forecasting, predictive analytics and AI-powered business solutions.
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+## 🎯 Career Focus
+
+I am focused on:
+
+- FinTech Analytics  
+- Product Analytics  
+- Banking Data  
+- Risk Analytics  
+- Data Engineering  
+- Business Intelligence  
+- AI-driven decision systems  
+
+---
+
+## 📫 Contact
+
+📧 **Email:** anarv980@gmail.com  
+📍 **Location:** Baku, Azerbaijan  
+
+---
+
+<div align="center">
+
+### Always learning. Always building. Always improving.
+
+</div>
