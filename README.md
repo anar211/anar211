@@ -4,7 +4,7 @@
 
 # Anar Veliev
 
-### Senior Data Analyst • Financial Analytics • Data Engineering • AI
+### Senior Data Analyst • Analytics Engineer • AI Solutions
 
 Designing enterprise data solutions that transform complex data into strategic business decisions.
 
