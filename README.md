@@ -1,104 +1,140 @@
-
 <div align="center">
 
-# Hi, I'm Anar Veliyev 👋
+# Anar Veliyev
 
-## Senior Data Analyst | Analytics Engineer | AI Solutions
+### Senior Data Analyst • Analytics Engineer • Financial Analytics
 
-📍 Baku, Azerbaijan  
-📧 anarv980@gmail.com  
+Building scalable data platforms that transform data into business value.
+
+**Python • SQL • Data Warehouse • ETL • Machine Learning • Business Intelligence**
+
+📍 Baku, Azerbaijan | 🌍 Open to Remote Opportunities
 
 </div>
 
 ---
 
-## 🚀 About Me
+# About
 
-Data Analyst with **6+ years of experience** in banking, government, AI products and business analytics.
+Senior Data Analyst with **6+ years of experience** delivering enterprise analytics solutions across **Banking, Government and AI-driven products**.
 
-I specialize in building scalable analytical systems, data warehouses, ETL pipelines, machine learning models and executive dashboards that turn raw data into business decisions.
+Experienced in designing **Data Warehouses**, developing **ETL pipelines**, optimizing enterprise SQL, creating executive dashboards, and building machine learning solutions that support strategic business decisions.
 
----
-
-## 💼 Core Expertise
-
-- 📊 Data Analytics  
-- 🏦 Banking & Financial Analytics  
-- 🗄️ Data Warehousing  
-- ⚡ SQL Optimization  
-- 🔄 ETL Pipelines  
-- 📈 Business Intelligence  
-- 🤖 Machine Learning  
-- 📉 Forecasting  
-- 🧠 AI Solutions  
-- 📌 Executive Dashboards  
+My passion lies in transforming complex datasets into clear, actionable insights that improve business performance and drive measurable results.
 
 ---
 
-## 🛠 Tech Stack
+# Expertise
 
-### Languages
-`Python` `SQL` `JavaScript`
+### Analytics
 
-### Databases
-`PostgreSQL` `MS SQL` `ClickHouse` `SQLite`
+- Financial Analytics
+- Product Analytics
+- Business Intelligence
+- Executive Reporting
+- KPI Development
+- Data Visualization
 
-### Analytics & BI
-`Pandas` `NumPy` `Scikit-Learn` `Power BI` `Tableau`
+### Banking
+
+- Credit Risk Analytics
+- Payment Analytics
+- Customer Segmentation
+- Collections Analytics
+- Financial Reporting
 
 ### Data Engineering
-`ETL` `Data Warehouse` `Data Modeling` `Spark`
 
-### AI / ML
-`PyTorch` `OpenCV` `TensorRT` `Machine Learning`
+- Enterprise Data Warehouse
+- ETL Pipelines
+- Data Modeling
+- SQL Optimization
+- Data Marts
 
-### Tools
-`Git` `Docker` `Linux` `Jupyter Notebook`
+### Artificial Intelligence
 
----
-
-## 📂 Featured Projects
-
-### 🏦 Banking Analytics Portfolio
-Credit risk, payment analytics, customer segmentation and financial dashboards.
-
-### 📊 Credit Risk Analysis
-Risk scoring, default prediction, business insights and model evaluation.
-
-### 🗄️ Data Warehouse & ETL
-End-to-end data pipeline with SQL data marts and analytical reporting.
-
-### 📈 Financial Dashboard
-Executive KPI dashboard for financial performance and business monitoring.
-
-### 🤖 Machine Learning Projects
-Forecasting, predictive analytics and AI-powered business solutions.
+- Machine Learning
+- Predictive Analytics
+- Forecasting
+- Deep Learning
+- Computer Vision
 
 ---
 
-## 🎯 Career Focus
+# Technology Stack
 
-I am focused on:
-
-- FinTech Analytics  
-- Product Analytics  
-- Banking Data  
-- Risk Analytics  
-- Data Engineering  
-- Business Intelligence  
-- AI-driven decision systems  
+| Programming | Python • SQL • JavaScript |
+|-------------|---------------------------|
+| Databases | PostgreSQL • MS SQL • ClickHouse |
+| Analytics | Pandas • NumPy • Scikit-Learn |
+| BI | Power BI • Tableau |
+| Data Engineering | ETL • Spark • Data Warehouse |
+| AI | PyTorch • OpenCV • TensorRT |
+| DevOps | Docker • Git • Linux |
 
 ---
 
-## 📫 Contact
+# Featured Projects
 
-📧 **Email:** anarv980@gmail.com  
-📍 **Location:** Baku, Azerbaijan  
+### Banking Analytics Portfolio
+
+Enterprise-level banking analytics with SQL, Python and Business Intelligence.
+
+### Credit Risk Analysis
+
+Machine Learning models for credit scoring and default prediction.
+
+### Enterprise Data Warehouse
+
+Scalable DWH architecture with automated ETL pipelines.
+
+### Executive Financial Dashboard
+
+Interactive dashboards for executive reporting and KPI monitoring.
+
+### Customer Analytics
+
+Segmentation, churn prediction and customer lifetime value analysis.
+
+---
+
+# Current Focus
+
+- Financial Analytics
+- Banking Technologies
+- Enterprise Data Platforms
+- AI-powered Decision Systems
+- Business Intelligence
+- Product Analytics
+
+---
+
+# Education
+
+**MSc — Data Analytics & Artificial Intelligence**
+
+University of the West of England
+
+---
+
+**MSc — Data Analytics & Artificial Intelligence**
+
+Transport and Telecommunication Institute
+
+---
+
+# Let's Connect
+
+📧 **anarv980@gmail.com**
+
+📍 **Baku, Azerbaijan**
+
+💼 LinkedIn *(coming soon)*
 
 ---
 
 <div align="center">
 
-### Always learning. Always building. Always improving.
+### Turning Data into Decisions
 
 </div>
