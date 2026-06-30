@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anar Veliyev
+# Anar Veliev
 
 ### Senior Data Analyst • Analytics Engineer • Financial Analytics
 
