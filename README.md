@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Senior+Data+Analyst;Analytics+Engineer;Financial+Analytics;Data+Engineering;Machine+Learning;Artificial+Intelligence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Senior+Data+Analyst;Analytics+Engineer;Financial+Analytics;Data+Engineering;Machine+Learning;Artificial+Intelligence"/>
 
 </p>
 
@@ -14,9 +14,9 @@
 
 ### Senior Data Analyst • Analytics Engineer
 
-**Financial Analytics • Artificial Intelligence • Data Engineering**
+**Financial Analytics • Data Engineering • Artificial Intelligence**
 
-Building intelligent software and enterprise data platforms that transform complex data into strategic business decisions.
+Building intelligent data platforms that transform complex data into strategic business decisions.
 
 </div>
 
@@ -57,14 +57,11 @@ Building intelligent software and enterprise data platforms that transform compl
 </p>
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anar211&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anar211&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anar211&theme=tokyonight"/>
 
 </p>
 
@@ -80,12 +77,6 @@ Building intelligent software and enterprise data platforms that transform compl
 
 </p>
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anar211&theme=tokyonight"/>
-
-</p>
-
 ---
 # 🚀 About Me
 
@@ -93,266 +84,118 @@ Senior Data Analyst with **6+ years of experience** delivering enterprise analyt
 
 Currently pursuing a **PhD in Management**, combining academic research with practical expertise in **Financial Analytics**, **Analytics Engineering**, **Enterprise Data Warehousing**, **Machine Learning**, and **Business Intelligence**.
 
-I specialize in designing scalable analytical platforms, developing enterprise ETL pipelines, optimizing SQL performance, building executive dashboards, and delivering AI-powered solutions that enable organizations to make data-driven decisions.
+My work focuses on designing scalable analytical platforms, building enterprise ETL pipelines, optimizing SQL performance, developing executive dashboards, and delivering AI-powered analytical solutions.
 
 ---
-
 # 💼 Core Expertise
 
-<table>
-<tr>
+### 📈 Financial Analytics
 
-<td width="50%">
-
-## 📈 Financial Analytics
-
-- Executive Reporting
 - Financial Reporting
 - KPI Development
-- Budget Analysis
 - Forecasting
-- Customer Analytics
 - Business Performance Analysis
+- Executive Dashboards
 
-</td>
+### 🗄️ Data Engineering
 
-<td width="50%">
-
-## 🗄️ Data Engineering
-
-- Enterprise Data Warehouse
+- Enterprise Data Warehousing
 - ETL Pipelines
-- SQL Optimization
 - Data Modeling
-- Data Marts
+- SQL Optimization
 - Apache Spark
-- Data Integration
 
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 📊 Business Intelligence
+### 📊 Business Intelligence
 
 - Power BI
 - Tableau
 - Executive Dashboards
-- KPI Monitoring
 - Data Visualization
-- Self-Service Analytics
 
-</td>
-
-<td>
-
-## 🤖 Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 - Machine Learning
 - Predictive Analytics
 - Deep Learning
 - Computer Vision
-- Forecasting
-- AI Solutions
-
-</td>
-
-</tr>
-
-</table>
 
 ---
-
 # ⚙️ Technology Stack
 
 | Category | Technologies |
 |-----------|--------------|
 | 🐍 Programming | Python • SQL • JavaScript |
-| 🗄️ Databases | PostgreSQL • MS SQL Server • ClickHouse |
+| 🗄 Databases | PostgreSQL • MS SQL Server • ClickHouse |
 | 📊 Analytics | Pandas • NumPy • Scikit-learn |
-| 📈 Business Intelligence | Power BI • Tableau |
+| 📈 BI | Power BI • Tableau |
 | ⚡ Data Engineering | ETL • Apache Spark • Data Warehouse |
-| 🤖 Artificial Intelligence | PyTorch • OpenCV • TensorRT |
-| 🛠 Development | Git • Docker • Linux • Jupyter Notebook |
-
----
-
-# 🎯 What I Do
-
-✔ Build Enterprise Data Warehouses
-
-✔ Develop scalable ETL Pipelines
-
-✔ Design Executive Dashboards
-
-✔ Optimize SQL Performance
-
-✔ Develop Machine Learning Models
-
-✔ Create Business Intelligence Solutions
-
-✔ Automate Reporting Processes
-
-✔ Transform Data into Strategic Business Value
+| 🤖 AI | PyTorch • OpenCV • TensorRT |
+| 🛠 Tools | Git • Docker • Linux • Jupyter Notebook |
 
 ---
 # 🏦 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
 ## 🏦 Banking Analytics Platform
 
-Enterprise analytics platform designed for financial reporting, KPI monitoring, customer analytics, and executive decision support.
+Enterprise banking analytics platform for financial reporting, KPI monitoring, customer analytics and executive dashboards.
 
-**Tech Stack**
-
-Python • SQL • PostgreSQL • Power BI • ETL
-
-</td>
-
-<td width="50%">
+---
 
 ## 📊 Credit Risk Analysis
 
-Machine Learning solution for credit scoring, probability of default prediction, portfolio analysis, and risk assessment.
+Machine Learning solution for credit scoring, portfolio analysis and probability of default prediction.
 
-**Tech Stack**
+---
 
-Python • Scikit-Learn • SQL • Pandas
+## 🗄 Enterprise Data Warehouse
 
-</td>
+Scalable enterprise Data Warehouse with automated ETL pipelines and analytical data marts.
 
-</tr>
-
-<tr>
-
-<td>
-
-## 🗄️ Enterprise Data Warehouse
-
-Modern Data Warehouse architecture with automated ETL pipelines, dimensional modeling, and analytical data marts.
-
-**Tech Stack**
-
-SQL • PostgreSQL • Apache Spark • ETL
-
-</td>
-
-<td>
+---
 
 ## 📈 Executive Financial Dashboard
 
-Interactive executive dashboards for business monitoring, KPI tracking, financial reporting, and strategic decision-making.
-
-**Tech Stack**
-
-Power BI • SQL • Python
-
-</td>
-
-</tr>
-
-</table>
+Interactive dashboards for business monitoring, KPI tracking and executive reporting.
 
 ---
-
-# 🔬 Research Interests
-
-- Financial Analytics
-- Artificial Intelligence
-- Data Engineering
-- Business Intelligence
-- Enterprise Data Platforms
-- Digital Transformation
-- Strategic Management
-- Analytics Engineering
-
----
-
 # 🎓 Education
 
-### 🎓 PhD in Management *(In Progress)*
-
-Doctoral Research in Management
+### PhD in Management *(In Progress)*
 
 ---
 
-### 🎓 MSc — Data Analytics & Artificial Intelligence
+### MSc — Data Analytics & Artificial Intelligence
 
-**University of the West of England**
-
-United Kingdom 🇬🇧
+University of the West of England (United Kingdom)
 
 ---
 
-### 🎓 MSc — Data Analytics & Artificial Intelligence
+### MSc — Data Analytics & Artificial Intelligence
 
-**Transport and Telecommunication Institute**
-
-Latvia 🇱🇻
+Transport and Telecommunication Institute (Latvia)
 
 ---
 
-### 🎓 BSc — Business Management
+### BSc — Business Management
 
-**Baltic International Academy**
-
-Latvia 🇱🇻
+Baltic International Academy (Latvia)
 
 ---
-
-# 📈 Current Focus
-
-✔ Financial Analytics
-
-✔ Banking Technologies
-
-✔ Artificial Intelligence
-
-✔ Analytics Engineering
-
-✔ Enterprise Data Warehousing
-
-✔ Business Intelligence
-
-✔ Product Analytics
-
-✔ Decision Support Systems
-
----
-
 # 🤝 Let's Connect
 
-<p align="center">
+📧 **Email:** anarv980@gmail.com
 
-<a href="mailto:anarv980@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-anarv980%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📍 **Baku, Azerbaijan**
 
-<a href="https://github.com/anar211">
-<img src="https://img.shields.io/badge/GitHub-anar211-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://img.shields.io/badge/Location-Baku,_Azerbaijan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-</p>
+🌍 **Open to Remote Opportunities**
 
 ---
 
 <div align="center">
 
-# Engineering Data for Better Decisions
+## Engineering Data for Better Decisions
 
-### Turning Data into Business Value through Analytics, Engineering and AI.
-
-⭐ Thank you for visiting my profile ⭐
+Turning Data into Business Value through Analytics, Engineering & AI.
 
 </div>
 
