@@ -1,59 +1,171 @@
 <div align="center">
 
-# Anar Veliev
+# Anar Veliyev
 
-### Senior Data Analyst • Analytics Engineer • Financial Analytics
+### Senior Data Analyst • Data Engineering • Financial Analytics
 
-Building scalable data platforms that transform data into business value.
+Building enterprise data solutions that transform data into business value.
 
-**Python • SQL • Data Warehouse • ETL • Machine Learning • Business Intelligence**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
-📍 Baku, Azerbaijan | 🌍 Open to Remote Opportunities
+📍 **Baku, Azerbaijan** • 🌍 **Open to Remote Opportunities**
 
 </div>
 
 ---
 
-# About
+## About Me
 
-Senior Data Analyst with **6+ years of experience** delivering enterprise analytics solutions across **Banking, Government and AI-driven products**.
+Senior Data Analyst with **6+ years of experience** delivering analytical solutions across **Banking, Government and AI-driven products**.
 
-Experienced in designing **Data Warehouses**, developing **ETL pipelines**, optimizing enterprise SQL, creating executive dashboards, and building machine learning solutions that support strategic business decisions.
+Experienced in designing enterprise **Data Warehouses**, developing scalable **ETL pipelines**, optimizing complex SQL workloads, building executive dashboards and applying Machine Learning to solve real business challenges.
 
-My passion lies in transforming complex datasets into clear, actionable insights that improve business performance and drive measurable results.
+I enjoy transforming complex datasets into actionable insights that improve decision-making, optimize business processes and create measurable business impact.
 
 ---
 
-# Expertise
+## Core Expertise
 
-### Analytics
+### Financial Analytics
 
-- Financial Analytics
-- Product Analytics
-- Business Intelligence
-- Executive Reporting
-- KPI Development
-- Data Visualization
-
-### Banking
-
-- Credit Risk Analytics
-- Payment Analytics
-- Customer Segmentation
-- Collections Analytics
 - Financial Reporting
+- KPI Development
+- Forecasting
+- Business Performance Analysis
 
 ### Data Engineering
 
 - Enterprise Data Warehouse
 - ETL Pipelines
 - Data Modeling
-- SQL Optimization
+- SQL Performance Optimization
 - Data Marts
+
+### Business Intelligence
+
+- Dashboard Development
+- Power BI
+- Tableau
+- Data Visualization
 
 ### Artificial Intelligence
 
 - Machine Learning
+- Predictive Analytics
+- Computer Vision
+
+---
+
+## Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux,js&theme=dark"/>
+
+</p>
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • SQL • JavaScript |
+| **Databases** | PostgreSQL • MS SQL Server • ClickHouse |
+| **Analytics** | Pandas • NumPy • Scikit-learn |
+| **Business Intelligence** | Power BI • Tableau |
+| **Data Engineering** | ETL • Apache Spark • Data Warehouse |
+| **AI / ML** | PyTorch • OpenCV • TensorRT |
+| **Development** | Git • Docker • Linux • Jupyter Notebook |
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anar211&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anar211&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=anar211&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Featured Projects
+
+🏦 **Banking Analytics Platform** *(In Progress)*
+
+Enterprise analytics platform for financial reporting, customer insights and executive decision support.
+
+---
+
+📊 **Credit Risk Analysis** *(In Progress)*
+
+Machine Learning models for probability of default prediction and credit portfolio analysis.
+
+---
+
+🗄️ **Enterprise Data Warehouse** *(In Progress)*
+
+Scalable data warehouse architecture with automated ETL pipelines and analytical data marts.
+
+---
+
+📈 **Executive Financial Dashboard** *(In Progress)*
+
+Interactive dashboards for KPI monitoring and executive financial reporting.
+
+---
+
+## Professional Interests
+
+- Financial Analytics
+- Banking Technologies
+- Product Analytics
+- Business Intelligence
+- Artificial Intelligence
+- Data Engineering
+- Enterprise Data Platforms
+
+---
+
+## Education
+
+**MSc — Data Analytics & Artificial Intelligence**  
+University of the West of England (United Kingdom)
+
+**MSc — Data Analytics & Artificial Intelligence**  
+Transport and Telecommunication Institute (Latvia)
+
+**BSc — Business Administration**  
+Baltic International Academy (Latvia)
+
+---
+
+## Let's Connect
+
+📧 **Email:** anarv980@gmail.com
+
+📍 **Location:** Baku, Azerbaijan
+
+💼 **LinkedIn:** *(Coming Soon)*
+
+---
+
+<div align="center">
+
+### Turning Data into Business Value
+
+</div>- Machine Learning
 - Predictive Analytics
 - Forecasting
 - Deep Learning
