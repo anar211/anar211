@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/anar211/anar211/main/banner.png" alt="Anar Veliyev — Senior Data Analyst Banner" width="100%">
 </p>
 
-# Anar Veliyev
+# Anar Veliev
 
 ### Senior Data Analyst • Financial Analytics • Data Engineering • AI
 
