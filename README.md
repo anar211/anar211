@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anar211/anar211/main/banner.png" alt="Anar Veliyev — Senior Data Analyst Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/anar211/anar211/main/Banner.png" width="100%" alt="Anar Veliev Banner">
 </p>
 
 # Anar Veliev
